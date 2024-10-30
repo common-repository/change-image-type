@@ -1,0 +1,61 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-08-17 17:44+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: changeimagetype.php:35 changeimagetype.php:36 changeimagetype.php:211
+msgid "Changing image format"
+msgstr ""
+
+#: changeimagetype.php:46
+msgid "Sorry, GD library is not available, you can not continue."
+msgstr ""
+
+#: changeimagetype.php:120
+msgid ""
+"Were unable to reproduce the original image settings duplicate the image "
+"settings."
+msgstr ""
+
+#: changeimagetype.php:138
+msgid "Failed to retrieve data."
+msgstr ""
+
+#: changeimagetype.php:142
+msgid "There is no target file."
+msgstr ""
+
+#: changeimagetype.php:170
+msgid "Conversion"
+msgstr ""
+
+#: changeimagetype.php:171
+msgid "Replication & transformation"
+msgstr ""
+
+#: changeimagetype.php:188
+msgid "Converts the specified image format.\\nAre you sure?"
+msgstr ""
+
+#: changeimagetype.php:189
+msgid "Make a copy of the image. Then, convert the format.\\nAre you sure?"
+msgstr ""
+
+#: changeimagetype.php:224
+#, php-format
+msgid "Displaying %d&#8211;%d of %d"
+msgstr ""
+
